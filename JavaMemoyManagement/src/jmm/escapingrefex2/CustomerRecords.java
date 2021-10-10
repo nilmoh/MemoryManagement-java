@@ -1,4 +1,4 @@
-package jmm.escapingrefex1;
+package jmm.escapingrefex2;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package jmm.escapingrefex1;
+package jmm.escapingrefex2;
 
 public class Customer {
 	private String name;

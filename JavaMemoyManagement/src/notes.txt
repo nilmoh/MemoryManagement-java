@@ -1,0 +1,9 @@
+Escaping Reference Notes
+========================
+
+Escaping references can be found in any method that returns an object where the object being returned is NOT immutable
+
+Immutable Data Types
+	java.lang.String
+	Numeric wrapper cleases : Integer, Double Long
+	
